@@ -31,7 +31,7 @@ class AndyRocket(pygame.sprite.Sprite):
             self.move("right")
 
     def fire_bullet(self):
-        
+       pass 
 
     
 if __name__ == "__main__":
